@@ -27,13 +27,13 @@ store.subscribe(()=>{
     console.log(store.getState());
 });
 
-const waterBill=store.dispatch(addExpense({description:'Water Bill',amount:500}));
-const gasBill=store.dispatch(addExpense({description:'Gas Bill',amount:200}));
-store.dispatch(addExpense({description:'Rent',amount:1950}));
-//store.dispatch(setTextFilter('bill'));
-// store.dispatch(setTextFilter('water'));
-const showExpenses = getVisibleExpenses(store.getState().expenses,store.getState().filters);
-console.log (showExpenses);
+// const waterBill=store.dispatch(addExpense({description:'Water Bill',amount:500}));
+// const gasBill=store.dispatch(addExpense({description:'Gas Bill',amount:200}));
+// store.dispatch(addExpense({description:'Rent',amount:1950}));
+// //store.dispatch(setTextFilter('bill'));
+// // store.dispatch(setTextFilter('water'));
+// const showExpenses = getVisibleExpenses(store.getState().expenses,store.getState().filters);
+// console.log (showExpenses);
 
 const jsx= (<Provider store={store}>
     <AppRouter />
