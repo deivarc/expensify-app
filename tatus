@@ -1,0 +1,35 @@
+[33mcommit a150cf29a1931cf1e5ed1bfd0ecd33e9f0c7cbdd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Fri Feb 5 14:38:35 2021 +0800
+
+    New Expenses total and summary
+
+[33mcommit f7593055cde720d6ab11ff120457cd28a88ca2bc[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Wed Feb 3 15:41:54 2021 +0800
+
+    Setting formating for amount and createddate
+
+[33mcommit d05d0e8aba88270029281540209c95f94688af75[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Wed Feb 3 14:52:00 2021 +0800
+
+    setup production build and server
+
+[33mcommit fea394653c145e6280f42ac44bf8a0ae691c66d3[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Wed Feb 3 11:48:57 2021 +0800
+
+    setup production webpack build
+
+[33mcommit e2217175bbc67ddfed01b154442c41523d513f50[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Wed Feb 3 09:25:08 2021 +0800
+
+    remove data
+
+[33mcommit ea03fb098e89a3d307fca2369f427b4901a4907c[m
+Author: Pang <zhi-ming.pang@atos.net>
+Date:   Wed Feb 3 09:21:52 2021 +0800
+
+    Initial Commit

@@ -9,6 +9,6 @@ const store= createStore(
         expenses: expensesReducer,
         filters: filtersReducer
     })
-)
+);
 return store;
 };
